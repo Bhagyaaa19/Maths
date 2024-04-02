@@ -1,0 +1,16 @@
+Q1) 
+Bird Population on an Island:
+On a remote island, a population of birds is growing. The island has an area of 200𝑚2, and the intrinsic growth rate is 0.05 per week. The average bird density is 150 birds per square meter. If the initial population is 30 birds, calculate:
+	a. The maximum possible population on the island.
+	b. The time it takes for the population to reach 80% of the carrying capacity.
+	c. Just after reaching a population size of 80% of the carrying capacity, the island experiences a natural disaster that reduces the area of island that is habitable to the birds by 35% leading to a 30% drop in the current population size. Assuming that the growth rate doesn't change, how long will it take to achieve the same population size that was there just before the disaster.
+	
+Q2)
+Fox Population in a Forest:
+The Department of Forest Management estimates a population of 800 foxes in a forest covering 500 square kilometers. The average density is 10 foxes per square kilometer. Calculate:
+	a. The carrying capacity for the forest.
+	b. If the intrinsic growth rate is 0.5 per month and the death rate is 0.05 per month, create a graph showing the fox population for the next 15 months without any disturbances.
+	c. Due to several hunting incidents by a group settlers in the area, a decline in the intrinsic growth rate to 0.3 and an increase in death rate to 0.2 (for the 1st 3 months) and a death rate of 0.1 the following months was observed, redraw the fox population for the following 15 months.
+	d. The settlers build a rabbit farm where the growth and death rate of the rabbit population is found to be 0.3 and 0.02 respectively. The initial rabbit population was 5 and the carrying capacity of the farm is 500 rabbits. The death rate of the rabbit population takes into account the deaths caused by the constant preying by the foxes in addition to their natural death rate.
+		i. With the construction of the rabbit farm the growth rate of foxes were found to be increased to 0.4. How will this affect both the fox and rabbit populations? 
+		ii. Will the settlers be able to maintain a constant rabbit population in the farm given the fact that the settlers hope to sell the rabbits at a rate of 0.2 of the total rabbit population? If not by how much should the growth rate of the rabbits increase that could then maintain a constant rabbit population and make the above feasible?
