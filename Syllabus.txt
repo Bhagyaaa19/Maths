@@ -1,0 +1,63 @@
+https://app.filestage.io/teams/e5a88fa9e5dc2ba305d29b2a22721af0/join-link
+
+Sheet 03.- Transpose
+
+Transposing
+Making matrices
+Equally spaced increments/ 0.1 increments 
+Making different types of matrices
+Elementwise operations 
+
+Sheet 04 - Modelling with Proportionality 
+Determining the proportionality using a straight line through the origin
+y = kx 
+least sum of squares - f' = 0
+taking derivative wrt m and = to 0 
+How to take derivative-derivative_doc
+y = mx+b
+
+f'' > 0, Min function | f'' <0, max function
+
+https://skill-lync.com/student-projects/curve-fitting-using-matlab-octave
+
+
+Lecture 5 - Discrete models 
+____________________________
+
+Exploration of mathematical models in biology - pg 16
+
+Lecture5.m - long-term behavior of a linear dynamical system an+1
+
+activity 4 - when theres a withdrawal 
+activity 5 - drug dosage problem
+assignment 2 - antibiotics question
+
+Lecture 6 - Discrete models II 
+_______________________________
+
+Logistic growth model ( population change is directly proportional to the population)
+Model refinement
+
+lecture6 - plotting days vs population and days vs population growth 
+finding b for a given model - curve fitting 
+predicting the population based on the refined model 
+
+Logistic equation for single species population growth 
+https://web.ma.utexas.edu/users/m408n/M408R/2016/LM4-1-5.html
+
+plotting population qith carrying capacity
+with harvesting rate 
+
+Lecture 7 
+__________
+
+Logistic growth model problems
+finding the carrying capacity using the plot and the population values 
+end of april hunting and not hunting questions
+
+Lecture 8 
+__________
+
+
+Predator prey models 
+
